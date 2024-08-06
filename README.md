@@ -17,4 +17,6 @@ S = [1,5,25,97,77,88,33,27,19,240,255,59,30]
 
 The program ultimately generates the quantum state
 
-![image](https://github.com/user-attachments/assets/81a6c050-993b-493f-b498-c672c2beb7c1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81a6c050-993b-493f-b498-c672c2beb7c1" alt="quantum state image">
+</p>
